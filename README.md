@@ -1,5 +1,5 @@
 # discordremake
-##Es una recreación del sitio web de Discord con VueJS
+Es una recreación del sitio web de Discord con VueJS
 
 ## Project setup
 ```
