@@ -26,8 +26,8 @@ nav{
 }
 .logo{
     height: 20%;
-    margin-right: 9%;
-    margin-top: 1%;
+    margin-left: -8.4%;
+    margin-top: 1.2%;
 }
 .txtbtn{
     margin: auto 10% auto 10%;
