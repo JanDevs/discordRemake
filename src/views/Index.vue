@@ -1,15 +1,13 @@
 <template>
-  <div class="hello">
-    
-  </div>
+    holis
 </template>
-
 <script>
 export default {
-  name: "HelloWorld",
+  name: "Index",
   props: {
-    msg: String,
+    
   },
+
 };
 </script>
 
