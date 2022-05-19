@@ -40,7 +40,7 @@
       <a href="" class="txtbtn">Blog</a>
       <a href="" class="txtbtn">Careers</a>
     </div>
-    <div class="three">kfdnv</div>
+    <div class="three"><button>Open Discord</button></div>
   </nav>
 </template>
 
@@ -51,14 +51,11 @@ export default {
 </script>
 
 <style>
-nav {
-  background-color: rgb(88, 101, 242);
-  height: 10%;
-}
+
 .logo {
   height: 20%;
-  margin-left: -8.4%;
-  margin-top: 1.2%;
+  margin-left: -6.7%;
+  margin-top: 1.8%;
 }
 .txtbtn {
   margin: auto 10% auto 10%;
@@ -76,11 +73,20 @@ nav {
 .one {
 }
 .two {
-  margin-top: 1%;
+    margin-left: 6%;
+  margin-top: 1.2%;
   display: flex;
   justify-content: space-evenly;
 }
 .three {
-  margin-top: 1%;
+    margin-top: 1.5%;
+  margin-right: -5%;
+}
+button{
+    height: 93%;
+    width: 123%;
+    border-radius: 30px;
+    background-color: white;
+    border: none;
 }
 </style>
