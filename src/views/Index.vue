@@ -1,13 +1,8 @@
-<template>
-    holis
-</template>
+<template>holis</template>
 <script>
 export default {
   name: "Index",
-  props: {
-    
-  },
-
+  props: {},
 };
 </script>
 
